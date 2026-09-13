@@ -349,7 +349,7 @@ img {
   min-height: 90px;
 }
 
-/* ---------- Responsive ---------- */
+/* --------- Responsive --------- */
 
 @media (max-width: 700px) {
   .navbar {
